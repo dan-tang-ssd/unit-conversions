@@ -1,6 +1,6 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "dan-tang-ssd/unit-conversions",
+    "description": "This is my package unit-conversions",
     "keywords": [
         ":vendor_name",
         ":package_slug"
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Dan Tang",
+            "email": "dan@stats4sd.org",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "VendorName\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "VendorName\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
