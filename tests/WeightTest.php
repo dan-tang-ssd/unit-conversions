@@ -10,7 +10,7 @@ class WeightTest extends TestCase
     /** @test */
 
     // Question: Each test case program file can have one test case function only?
-    
+
     public function it_can_convert_kilograms_to_lbs()
     {
         $lbs = Weight::fromKilograms(100)->toLbs();
@@ -21,5 +21,4 @@ class WeightTest extends TestCase
         // test case for OK result
         $this->assertEquals(220.4623, $lbs);
     }
-    
 }
