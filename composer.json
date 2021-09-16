@@ -2,8 +2,8 @@
     "name": "dan-tang-ssd/unit-conversions",
     "description": "This is my package unit-conversions",
     "keywords": [
-        ":vendor_name",
-        ":package_slug"
+        "Dan-tang-ssd",
+        "unit-conversions"
     ],
     "homepage": "https://github.com/:vendor_slug/:package_slug",
     "license": "MIT",
